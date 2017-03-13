@@ -1,5 +1,8 @@
 _repo: Captain-Blood_1965
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
 description: "Captain Blood: His Odyssey is an adventure novel by Rafael Sabatini,\
   \ originally published in 1922.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1965#Captain-Blood
 gutenberg_bookshelf:
 - Adventure
 - Movie Books
